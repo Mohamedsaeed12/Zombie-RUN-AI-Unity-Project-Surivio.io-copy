@@ -1,0 +1,1 @@
+player move around with mouse while shooting at consticently spawning zombies that chasethe player. Player gets damaged from zombies but there are medkits across the map. There is many barriers that you have to go around to escape. Once your health reaches zero you keep the highest score of zombies killed.
